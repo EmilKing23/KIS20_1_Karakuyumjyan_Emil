@@ -7,3 +7,4 @@ def line(string):
             total += 1
     return total
 print(line("здраФАствуйте"))
+"""...."""
