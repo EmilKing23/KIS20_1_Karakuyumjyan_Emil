@@ -7,3 +7,6 @@ def line(string):
             total += 1
     return total
 print(line("здраФАствуйте"))
+
+if __name__ == "__main__":
+    print('привет')
